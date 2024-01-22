@@ -1,5 +1,5 @@
 {
-  "name": "Adarsh-",
+  "name": "dakshin-",
   "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @adarshgoel",
   "keywords": [
       "telegram",
@@ -26,13 +26,13 @@
           "description": "Copy-Paste the app name that you just typed above."
       },
       "API_ID": {
-          "description": "Get this value from https://my.telegram.org"
+          "description": "29208538"
       },
       "API_HASH": {
-          "description": "Get this value from https://my.telegram.org"
+          "description": "293800cde5c66a30fe1d9010de85a2cc"
       },
       "BOT_TOKEN": {
-          "description": "Get this value from @BotFather"
+          "description": "6501340649:AAHKnykSw8lRckFl-5nULi10OzV8nOSxdfE"
       },
       "BIN_CHANNEL": {
           "description": "The BIN Channel ID. Read the readme for more info about this var"
